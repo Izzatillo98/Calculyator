@@ -101,3 +101,8 @@ Bu esa mening linkim **[Meniki](https://github.com/Izzatillo98/Calculyator/blob/
 
 
 Keyingi va oxirgi qiladigan buyruqimiz bu git push origin main boladi. Bu bizga githubimizda barcha fayllarni korsatib chiqarib beradi.
+
+
+
+
+> # lesson 4

@@ -40,3 +40,7 @@ Console.WriteLine("Natija = " + doubleFirst);
 
 double doubleSecond = firstNumber - fourthNumber;
 Console.WriteLine("Natija = " + doubleSecond);
+
+
+
+

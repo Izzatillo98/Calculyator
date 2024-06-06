@@ -106,3 +106,5 @@ Keyingi va oxirgi qiladigan buyruqimiz bu git push origin main boladi. Bu bizga 
 
 
 > # lesson 4
+- ## let's go
+- pascalCase

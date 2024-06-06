@@ -182,3 +182,13 @@ int age = 19;
 Console.WriteLine(age > 18 && age < 27)
 
 Console.WriteLine(!(age > 18))
+
+string name;
+
+int age;
+
+Console.Write("Yoshingizni kiriting :");
+
+age = Convert.ToInt32(Console.ReadLine()); **buni manosi yoshingiz son korishida bolishi kerek degani**
+
+Console.WriteLine(age > 17 && age < 27);

@@ -43,11 +43,33 @@ Console.WriteLine("Natija = " + doubleSecond);
 
 
 
-string name;
+//string name;
+//int age;
+//Console.Write("Yoshingizni kiriting:");
+
+//age = Convert.ToInt32(Console.ReadLine());
+
+//Console.WriteLine(age > 18 && age < 27);
+
+//int age;
+//string name;
+//Console.Write("yoshingizni yozing :");
+//age = Convert.ToInt16(Console.ReadLine());
+//Console.WriteLine(!(age<18));
+
+ //decimal firstNumber;
+ //decimal secondNumber;
+ //Console.WriteLine("sonlarni kiriting");
+ //Console.Write("son: ");
+ //firstNumber = Convert.ToDecimal(Console.ReadLine());
+ //Console.Write("son2: ");
+ //secondNumber = Convert.ToDecimal(Console.ReadLine());
+ //Console.WriteLine(firstNumber + secondNumber);
+
 int age;
-Console.Write("Yoshingizni kiriting:");
+string name;
 
+Console.Write("yoshiz");
 age = Convert.ToInt32(Console.ReadLine());
-
-Console.WriteLine(age > 18 && age < 27);
+Console.WriteLine(age >18 && age<27);
 

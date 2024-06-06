@@ -43,4 +43,11 @@ Console.WriteLine("Natija = " + doubleSecond);
 
 
 
+string name;
+int age;
+Console.Write("Yoshingizni kiriting:");
+
+age = Convert.ToInt32(Console.ReadLine());
+
+Console.WriteLine(age > 18 && age < 27);
 

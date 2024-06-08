@@ -66,10 +66,11 @@ Console.WriteLine("Natija = " + doubleSecond);
  //secondNumber = Convert.ToDecimal(Console.ReadLine());
  //Console.WriteLine(firstNumber + secondNumber);
 
-int age;
+int convertedAge;
 string name;
 
 Console.Write("yoshiz");
-age = Convert.ToInt32(Console.ReadLine());
+age = Convert.ToInt32();
+userAge = 
 Console.WriteLine(age >18 && age<27);
 
